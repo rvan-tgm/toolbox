@@ -1,5 +1,5 @@
 <h1> AUR - Arch User Repository </h1>
-
+Robin van Dyck 18.04.2022
 <h2> Installation </h2>
 
 Package im AUR raussuchen und den  `GIT Clone URL` kopieren und das Repo lokal clonen
