@@ -1,6 +1,7 @@
 # Git
 
 Christian Grubmüller, 19.11.2021
+Robin van Dyck, 18.04.2022
 
 #### Name und Email setzten
 
@@ -55,5 +56,6 @@ Um Repositories dann zu klonen muss man ssh auswählen.
    git commit -m "commit message"
    ```
 
-   
-
+## Dateien im nachhinein umbenennen
+Ins lokale Repo gehen `git mv filenameold filenamenew`
+Danach einfach commiten und pushen :D
